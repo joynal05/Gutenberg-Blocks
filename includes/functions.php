@@ -91,7 +91,6 @@ function test_plugin_menu_page(){
 	
 }
 
-// include 'list_table.php';
 
 
 
